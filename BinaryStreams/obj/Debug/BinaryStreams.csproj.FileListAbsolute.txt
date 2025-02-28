@@ -1,0 +1,7 @@
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\bin\Debug\BinaryStreams.exe.config
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\bin\Debug\BinaryStreams.exe
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\bin\Debug\BinaryStreams.pdb
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\obj\Debug\BinaryStreams.csproj.AssemblyReference.cache
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\obj\Debug\BinaryStreams.csproj.CoreCompileInputs.cache
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\obj\Debug\BinaryStreams.exe
+D:\ИС-23\Волков Плотникова\BinaryStreams\BinaryStreams\obj\Debug\BinaryStreams.pdb
