@@ -1,0 +1,7 @@
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\bin\Release\BinaryStreams.exe.config
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\bin\Release\BinaryStreams.exe
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\bin\Release\BinaryStreams.pdb
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\obj\Release\BinaryStreams.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\obj\Release\BinaryStreams.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\obj\Release\BinaryStreams.exe
+C:\Users\Klaudy\Desktop\BinaryStreams\BinaryStreams\BinaryStreams\obj\Release\BinaryStreams.pdb
